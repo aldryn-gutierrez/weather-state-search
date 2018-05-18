@@ -20,10 +20,10 @@ The search is currently restricted for US States only. Keying in a Non US State 
 	 npm start
 	```
 
-  ## Searching Weather of States
+## Searching Weather of States
 
-  Enter in your browser http://localhost:8080/ and you should see a  page like this:
+Enter in your browser http://localhost:8080/ and you should see a  page like this:
 
-  ![Screenshot of Search Page](http://tinyimg.io/i/MuwsN2B.png)
+![Screenshot of Search Page](http://tinyimg.io/i/MuwsN2B.png)
 
-  From the input box above you can type any US State and the Humidity, Pressure and Temperature will be displayed
+From the input box above you can type any US State and the Humidity, Pressure and Temperature will be displayed
