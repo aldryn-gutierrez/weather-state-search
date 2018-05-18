@@ -1,4 +1,4 @@
-# Weather State Search
+# Weather State Search (US State Only)
 
 An application to search the Weather Details such as Temperature, Humidity and Pressure
 
